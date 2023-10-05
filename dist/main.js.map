@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAG,CAAC,aAAa,CAAC,C","sources":["webpack://crreact-app-fromsctratch2/./src/index.tsx"],"sourcesContent":["console.log('Hello React');"],"names":["console","log"],"sourceRoot":""}
