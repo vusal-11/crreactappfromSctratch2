@@ -1,0 +1,23 @@
+{
+  "name": "crreact-app-fromsctratch2",
+  "version": "0.0.1",
+  "description": "Learning how to create react without CRA",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vusal-11/crreactappfromSctratch2.git"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Vusal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vusal-11/crreactappfromSctratch2/issues"
+  },
+  "homepage": "https://github.com/vusal-11/crreactappfromSctratch2#readme"
+}
